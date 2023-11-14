@@ -1,0 +1,20 @@
+.sec{
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin-top: 40px;
+    justify-content: space-evenly;
+}
+
+.grid{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+
+img{
+    margin: 5px;
+    height: 300px;
+    width: 250px;
+}
