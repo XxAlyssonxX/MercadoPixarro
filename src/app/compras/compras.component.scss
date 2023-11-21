@@ -1,20 +1,30 @@
 .sec{
     width: 100%;
-    justify-content: center;
     display: flex;
     margin-top: 40px;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
-.grid{
-    flex-direction: column;
-    display: flex;
-    justify-content: center;
-    gap: 80px;
+.card{
+    margin-top: 20px;
+    background-color: transparent;
 }
 
 img{
-    margin: 5px;
-    height: 300px;
-    width: 250px;
+    mix-blend-mode: multiply;
+    margin: 7px;    
 }
+
+.img{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+    justify-content: space-evenly;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+

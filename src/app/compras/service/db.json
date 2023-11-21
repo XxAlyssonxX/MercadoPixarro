@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "img": "../../assets/arroz.webp",
+      "nome": "Arroz",
+      "valor": 7.89,
+      "descricao": "Arroz Tio João 1kg",
+      "id": 1
+    },
+    {
+      "img": "../../assets/feijao.webp",
+      "nome": "Feijão",
+      "valor": 8.69,
+      "descricao": "Feijão Kicaldo 1Kg",
+      "id": 2
+    },
+    {
+      "img": "../../assets/coca.webp",
+      "nome": "Coca-Cola",
+      "valor": 7.99,
+      "descricao": "Coca-Cola 1,5L",
+      "id": 3
+    },
+    {
+      "img": "../../assets/skol.png",
+      "nome": "Skol",
+      "valor": 2.89,
+      "descricao": "Skol lata 350ml",
+      "id": 4
+    }
+  ]
+}
